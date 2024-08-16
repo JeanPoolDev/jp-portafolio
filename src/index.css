@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background: rgb(127,127,127);
+  background: linear-gradient(90deg, rgba(127,127,127,1) 0%, 
+  rgba(127,127,127,1) 0%, rgba(57,57,57,1) 0%);
+  color-scheme: light dark;
+  font-family: "Montserrat", sans-serif;
+}
